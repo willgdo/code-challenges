@@ -1,0 +1,14 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Practicing code challenges",
+  "main": "index.js",
+  "scripts": {
+      "test": "jest"
+  },
+  "author": "Willian Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
